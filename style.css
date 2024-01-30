@@ -52,14 +52,17 @@ box-sizing: border-box;
     width:150px;
   background-color: red;
     padding-left:150px;
+   
 }
 .stairway2_3{
     width: 150px;
     padding-left: 300px;
     background-color: red;
+ 
 }
 .stairway2_4{
-    width: 150px;padding-left: 450px;
+    width: 150px;
+    padding-left: 450px;
     background-color: red;
 }
 
