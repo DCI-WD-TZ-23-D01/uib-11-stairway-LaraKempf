@@ -41,43 +41,30 @@ box-sizing: border-box;
 
 }
 .stairway2_1{
-  background-color: red;
-   
-    width: 600px;
  
+   width: 600px;
+ box-sizing: border-box;
 
-    box-sizing: border-box;
-    padding-left:0px;
+
 }
 
 .stairway2_2{
-    
-    width: 600px;
-
-    box-sizing: border-box;
-    padding-left: 150px;
+    width:150px;
+  background-color: red;
+    padding-left:150px;
 }
 .stairway2_3{
-    
-    width: 600px;
-  
-
-    box-sizing: border-box;
-    padding-left:300px;
+    width: 150px;
+    padding-left: 300px;
+    background-color: red;
 }
 .stairway2_4{
-  
-    width: 600px;
-  
-  
-    box-sizing: border-box;
-    padding-left: 450px;
+    width: 150px;padding-left: 450px;
+    background-color: red;
 }
 
-section{
-    border: 1px solid black;
-}
 .treppenhaus{
+box-sizing: border-box;
     margin-left: 600px;
     width: 600px;
     border: 1px solid black;
